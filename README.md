@@ -54,15 +54,7 @@
 - 👯 I’m looking to collaborate on several projects
 - 🤔 I’m looking for help with new ideas to enable student learning 
 - 💬 Ask me about Visual BASIC .Net 
-- 📫 How to reach me: james.flippin@live.com 
+- 📫 How to reach me: [james.flippin@live.com](mailto://james.flippin@live.com)
 - ⚡ Fun fact: I like camping, hiking and backpacking 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JamesFlippin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://JamesFlippin.github.io/)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesFlippin&show_icons=true&theme=synthwave)
-
-![GitHub metrics](https://metrics.lecoq.io/JamesFlippin)  
-
-![Profile views](https://gpvc.arturio.dev/JamesFlippin)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JamesFlippin)](https://github.com/ryo-ma/github-profile-trophy)
