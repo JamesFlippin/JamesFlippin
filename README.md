@@ -37,7 +37,7 @@
 
 - **Senior Information Technology Specialist (Retired)** - Senior System Administrator, Senior Network Administrator, System Security Officer, Programmer, VOIP Administrator, Exchange Administrator, SQL Server Administrator, SCCM Administrator, Field Chief Information Officer (Acting), National Project Control Board member, Disaster Recovery Team Leader, Virus Incident Resonse Team (VIRT) Lead, Senior Webmaster (Internet and Intranet), etc.
 
-- **Veteran** - <img width='25' height='25' src='https://github.com/JamesFlippin/JamesFlippin/blob/master/air-force-logo.png' alt='U.S. Air Force logo'> United States Air Force/Reserves <img width='25' height='25' src='https://github.com/JamesFlippin/TexasPaladin/blob/master/air-force-logo.png' alt='U.S. Air Force logo'> - Crew Chief Lockheed C-5 Galaxy, Flightline Aircraft Mechanic, E-5, Staff Sergeant
+- **Veteran** - <img width='25' height='25' src='https://github.com/JamesFlippin/JamesFlippin/blob/master/air-force-logo.png' alt='U.S. Air Force logo'> United States Air Force/Reserves <img width='25' height='25' src='https://github.com/JamesFlippin/JamesFlippin/blob/master/air-force-logo.png' alt='U.S. Air Force logo'> - Crew Chief Lockheed C-5 Galaxy, Flightline Aircraft Mechanic, E-5, Staff Sergeant
 
 - **Certifications:** Microsoft Certified System Administrator Server 2003, CompTIA Security+
 
@@ -49,12 +49,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesFlippin&theme=synthwave)
 
-- 🔭 I’m currently working on transitioning to Performance Based Education (PBE)
+- 🔭 I’m currently working on learning to use SQLite with C# programs and distribute them
 - 🌱 I’m currently learning everything I can (Xamarin, Backpacking/camping skills, etc.)
 - 👯 I’m looking to collaborate on several projects
 - 🤔 I’m looking for help with new ideas to enable student learning 
 - 💬 Ask me about Visual BASIC .Net 
-- 📫 How to reach me: james.flippin@tstc.edu 
+- 📫 How to reach me: james.flippin@live.com 
 - ⚡ Fun fact: I like camping, hiking and backpacking 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JamesFlippin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://JamesFlippin.github.io/)  
