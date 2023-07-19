@@ -52,12 +52,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesFlippin&theme=synthwave)
 
-- 🔭 I’m currently working on learning to use SQLite with C# programs and distribute them
-- 🌱 I’m currently learning everything I can (Xamarin, Backpacking/camping skills, etc.)
-- 👯 I’m looking to collaborate on several projects
-- 🤔 I’m looking for help with new ideas to enable student learning 
+- 🔭 I’m currently working on learning to use SQLite with C# programs and how to distribute them
+- 🌱 I’m currently learning everything I can (Information Technology, Programming, Backpacking/camping skills, etc.)
+- 👯 I’m looking to collaborate on any interesting projects
+- 🤔 I’m looking for help with new ideas for projects to work on
 - 💬 Ask me about Visual BASIC .Net 
-- 📫 How to reach me by email: [james.flippin@live.com](mailto://james.flippin@live.com)
-- ⚡ Fun fact: I like camping, hiking and backpacking 
+- 📫 How to reach me by email: [james.flippin@zohomail.com](mailto://james.flippin@zohomail.com)
+- ⚡ Fun fact: I like camping, hiking and backpacking
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JamesFlippin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://JamesFlippin.github.io/)  
