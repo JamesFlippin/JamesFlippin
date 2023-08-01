@@ -30,7 +30,7 @@
 
 ### A little about me:
 
-- **Senior Information Technology Specialist, U.S. Department of Vetereans Affairs(Retired)** - Senior System Administrator, Senior Network Administrator, Information Security Officer (Alternate), System Security Officer, Programmer, VOIP Administrator, Exchange Administrator, SQL Server Administrator, SCCM Administrator, Field Chief Information Officer (Acting), National Project Control Board member, Disaster Recovery Team Leader, Virus Incident Resonse Team (VIRT) Lead, Senior Webmaster (Internet and Intranet), etc.
+- **Senior Information Technology Specialist, U.S. Department of Vetereans Affairs(Retired)** - I worked at the U.S. Department of Veterans Affairs for 33+ years, where I eventually retired. Senior System Administrator, Senior Network Administrator, Information Security Officer (Alternate), System Security Officer, Programmer, VOIP Administrator, Exchange Administrator, SQL Server Administrator, SCCM Administrator, Field Chief Information Officer (Acting), National Project Control Board member, Disaster Recovery Team Leader, Virus Incident Resonse Team (VIRT) Lead, Senior Webmaster (Internet and Intranet), etc.
 
 - **Educator** - Computer Programming Technology Instructor at Texas State Technical College in Waco, Texas.
  For nearly 5 years I have been an Instructor for aspiring Computer Programmers. Over the years I have taught both in person courses/degrees and online only courses/degrees. I enjoy sharing my decades of real world Information Technology (Hardware/Software) and Programming experience with students.
