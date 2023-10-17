@@ -46,7 +46,9 @@
 
 - **Certifications:** Microsoft Certified System Administrator Server 2003, CompTIA Security+
 
-- **Programming Skills:** C# / VB / C++ / Java/ Python/ HTML / CSS / SQL
+- **Programming Skills:** C# / VB / C / C++ / Java/ Python/ SQL
+
+- ##Web Skills: HTML / CSS
 
 - **Operating System Skills:** Windows Desktop OS, Windows Server OS, Linux OS, DOS
 
