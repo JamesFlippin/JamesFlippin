@@ -48,7 +48,7 @@
 
 - **Programming Skills:** C# / VB / C / C++ / Java/ Python/ SQL
 
-- ##Web Skills: HTML / CSS
+- **sWeb Skills: HTML / CSS
 
 - **Operating System Skills:** Windows Desktop OS, Windows Server OS, Linux OS, DOS
 
