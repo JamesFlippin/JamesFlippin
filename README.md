@@ -31,8 +31,6 @@
 ![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white&labelColor=black&color=darkred)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=darkred)
 
-<img src='https://github.com/JamesFlippin/JamesFlippin/blob/main/Me%20Teaching_Small.png' alt='Me Teaching In Person @ TSTC'>
-
 ## Hi there 👋, my name is James Flippin
 
 ### A little about me:
