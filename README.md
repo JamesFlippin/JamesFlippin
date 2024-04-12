@@ -42,7 +42,7 @@
 
 - **Veteran** - <img width='25' height='25' src='https://github.com/JamesFlippin/JamesFlippin/blob/main/air-force-logo.png' alt='U.S. Air Force logo'> United States Air Force/Reserves <img width='25' height='25' src='https://github.com/JamesFlippin/JamesFlippin/blob/main/air-force-logo.png' alt='U.S. Air Force logo'> - Crew Chief Lockheed C-5 Galaxy, Flightline Aircraft Mechanic, E-5, Staff Sergeant
 
-- **Certifications:** Microsoft Certified System Administrator Server 2003, CompTIA Security+
+- **Certifications:** Microsoft Certified Professional, Microsoft Certified System Administrator Server 2003, CompTIA Security+
 
 - **Programming Skills:** C# / VB / C / C++ / Java/ Python/ SQL
 
