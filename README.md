@@ -35,6 +35,8 @@
 
 ### A little about me:
 
+- **Independant Software Developer and Information Technology Specialist** - I spend my spare time working on a variety of Software, Hardware, Networking and Home Security/Automation projects I find interesting.
+
 - **Senior Information Technology Specialist, U.S. Department of Vetereans Affairs(Retired)** - I worked at the U.S. Department of Veterans Affairs for 33+ years, where I eventually retired. Senior System Administrator, Senior Network Administrator, Information Security Officer (Alternate), System Security Officer, Programmer, VOIP Administrator, Exchange Administrator, SQL Server Administrator, SCCM Administrator, Field Chief Information Officer (Acting), National Project Control Board member, Disaster Recovery Team Leader, Virus Incident Resonse Team (VIRT) Lead, Senior Webmaster (Internet and Intranet), etc.
 
 - **Educator** - Computer Programming Technology Senior Instructor at Texas State Technical College in Waco, Texas.
