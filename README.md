@@ -26,6 +26,7 @@
 ![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 ![Windows 10 & 11](https://img.shields.io/badge/Windows%2010%2F11-blue?style=for-the-badge&logo=windows&logoColor=white&label=Microsoft&labelColor=blue&color=purple)
 ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black&labelColor=white&color=black)
+![PTX/Dynix](https://img.shields.io/badge/PTX/Dynix-yellow?style=for-the-badge&logo=linux&logoColor=black&labelColor=white&color=darkgreen)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white&labelColor=black&color=darkred)
