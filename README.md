@@ -47,7 +47,7 @@
 - **Educator** - Computer Programming Technology Senior Instructor at Texas State Technical College in Waco, Texas.
  For 5 years I have been an Instructor for aspiring Computer Programmers. Over the years I have taught both in person courses/degrees and online only courses/degrees. I enjoy sharing my decades of real world Information Technology (Hardware/Software) and Programming experience with students.
 
-- **Veteran** - <img width='25' height='25' src='https://github.com/JamesFlippin/JamesFlippin/blob/main/air-force-logo.png' alt='U.S. Air Force logo'> United States Air Force/Reserves <img width='25' height='25' src='https://github.com/JamesFlippin/JamesFlippin/blob/main/air-force-logo.png' alt='U.S. Air Force logo'> - Crew Chief Lockheed C-5 Galaxy, Flightline Aircraft Mechanic, E-5, Staff Sergeant <img width='25' height='25' src='https://github.com/JamesFlippin/JamesFlippin/blob/main/E5_USAF_SSGT.svg.png' alt='U.S. Air Force logo'>
+- **Veteran** - <img width='25' height='25' src='https://github.com/JamesFlippin/JamesFlippin/blob/main/air-force-logo.png' alt='U.S. Air Force logo'> United States Air Force/Reserves <img width='25' height='25' src='https://github.com/JamesFlippin/JamesFlippin/blob/main/air-force-logo.png' alt='U.S. Air Force logo'> - Crew Chief Lockheed C-5 Galaxy, Flightline Aircraft Mechanic, E-5, Staff Sergeant <img width='25' height='25' src='https://github.com/JamesFlippin/JamesFlippin/blob/main/E5_USAF_SSGT.svg.png' alt='U.S. Air Force E5/SSgt'>
 
 - **Certifications:** Microsoft Certified Professional, Microsoft Certified System Administrator Server 2003, CompTIA Security+
 
