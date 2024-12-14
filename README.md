@@ -14,6 +14,9 @@
 ![SCCM Server](https://img.shields.io/badge/Microsoft-SCCM-darkred%20Color%3DYellow?style=for-the-badge&logo=windows&logoColor=White&labelColor=blue)
 ![Microsoft SQL](https://img.shields.io/badge/Microsoft-SQL-darkred%20Color%3DYellow?style=for-the-badge&logo=windows&logoColor=White&labelColor=blue)
 ![Microsoft Exchange Server](https://img.shields.io/badge/Microsoft-Exchange%20Server-darkred%20Color%3DYellow?style=for-the-badge&logo=windows&logoColor=White&labelColor=blue)
+![Wang VS7000](https://img.shields.io/badge/Wang-VS7000_Series-darkred%20Color%3DYellow?style=for-the-badge&logo=windows&logoColor=White&labelColor=blue)
+![Sequent Symmetry S2000](https://img.shields.io/badge/Sequent-S2000-darkred%20Color%3DYellow?style=for-the-badge&logo=windows&logoColor=White&labelColor=blue)
+![Honeywell DPS6](https://img.shields.io/badge/Honeywell-DPS6-darkred%20Color%3DYellow?style=for-the-badge&logo=windows&logoColor=White&labelColor=blue)
 ![Microsoft Store](https://img.shields.io/badge/Microsoft-Store-blue?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=blue&color=darkgreen)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -31,6 +34,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white&labelColor=black&color=darkred)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=darkred)
+
 
 ## Hi there 👋, my name is James Flippin
 
