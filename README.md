@@ -1,4 +1,4 @@
-![Alexa Skills](https://img.shields.io/badge/Alexa-Skills-blue?style=for-the-badge&logo=amazon&logoColor=white&labelColor=darkred&color=darkgreen)
+![Alexa Skills](https://img.shields.io/badge/Alexa-Skills-blue?style=for-the-badge&logo=amazon&logoColor=white&labelColor=yellow&color=green)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
